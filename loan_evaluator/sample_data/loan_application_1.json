@@ -1,0 +1,31 @@
+{
+  "application_id": "LOAN-001",
+  "applicant_name": "Sarah Johnson",
+  "applicant_email": "sarah.johnson@email.com",
+  "applicant_phone": "555-0101",
+  "date_of_birth": "1985-03-15",
+  "requested_amount": 350000,
+  "loan_purpose": "Home Purchase",
+  "loan_term_months": 360,
+  "employment_status": "Employed",
+  "current_employer": "Tech Solutions Inc.",
+  "employment_years": 8,
+  "annual_income": 125000,
+  "secondary_income": 15000,
+  "income_source": "W2 + Investment Income",
+  "credit_score": 755,
+  "credit_inquiries_6_months": 1,
+  "existing_debt": 15000,
+  "down_payment": 100000,
+  "collateral_value": 450000,
+  "liquid_assets": 85000,
+  "documents_provided": [
+    "pay_stubs",
+    "tax_returns",
+    "bank_statements",
+    "employment_verification"
+  ],
+  "address": "123 Main St, San Francisco, CA",
+  "years_at_address": 3,
+  "notes": "Stable employment, good financial profile. Switching to better mortgage terms."
+}

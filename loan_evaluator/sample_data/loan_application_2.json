@@ -1,0 +1,31 @@
+{
+  "application_id": "LOAN-002",
+  "applicant_name": "Michael Chen",
+  "applicant_email": "m.chen@email.com",
+  "applicant_phone": "555-0102",
+  "date_of_birth": "1978-07-22",
+  "requested_amount": 500000,
+  "loan_purpose": "Business",
+  "loan_term_months": 240,
+  "employment_status": "Self-Employed",
+  "current_employer": "Chen Consulting LLC",
+  "employment_years": 5,
+  "annual_income": 200000,
+  "secondary_income": null,
+  "income_source": "Self-Employment Income",
+  "credit_score": 680,
+  "credit_inquiries_6_months": 3,
+  "existing_debt": 85000,
+  "down_payment": 150000,
+  "collateral_value": 600000,
+  "liquid_assets": 120000,
+  "documents_provided": [
+    "tax_returns",
+    "business_bank_statements",
+    "business_plan",
+    "profit_loss_statement"
+  ],
+  "address": "456 Oak Ave, Austin, TX",
+  "years_at_address": 2,
+  "notes": "Self-employed for 5 years. Expanding business operations. Seeking expansion capital."
+}

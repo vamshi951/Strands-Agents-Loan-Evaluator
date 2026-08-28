@@ -1,0 +1,29 @@
+{
+  "application_id": "LOAN-003",
+  "applicant_name": "James Rodriguez",
+  "applicant_email": "jrodriguez@email.com",
+  "applicant_phone": "555-0103",
+  "date_of_birth": "1992-11-08",
+  "requested_amount": 275000,
+  "loan_purpose": "Home Purchase",
+  "loan_term_months": 360,
+  "employment_status": "Employed",
+  "current_employer": "Manufacturing Co.",
+  "employment_years": 2,
+  "annual_income": 68000,
+  "secondary_income": null,
+  "income_source": "W2",
+  "credit_score": 620,
+  "credit_inquiries_6_months": 5,
+  "existing_debt": 42000,
+  "down_payment": 40000,
+  "collateral_value": 315000,
+  "liquid_assets": 5000,
+  "documents_provided": [
+    "recent_pay_stubs",
+    "one_year_tax_return"
+  ],
+  "address": "789 Pine Rd, Denver, CO",
+  "years_at_address": 1,
+  "notes": "First-time homebuyer. Recent job change. Limited documentation."
+}
