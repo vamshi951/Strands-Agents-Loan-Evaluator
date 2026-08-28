@@ -34,8 +34,8 @@ This project demonstrates how to use Strands agents with AWS Bedrock to build a 
 ### 1. Clone and Setup
 
 ```bash
-git clone https://github.com/isadays/strands-agents-loan-evaluator.git
-cd strands-agents-loan-evaluator
+git clone https://github.com/vamshi951/Strands-Agents-Loan-Evaluator.git
+cd Strands-Agents-Loan-Evaluator
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
